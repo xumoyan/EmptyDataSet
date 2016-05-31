@@ -1,0 +1,2 @@
+# EmptyDataSet
+UITableView/UICollectionView没有数据的时候展示一个提示的View，点击View上的按钮可以重新加载。
